@@ -1,0 +1,15 @@
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Entrega2\Entrega2\Entrega2\bin\Debug\net8.0\Entrega2.exe
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Entrega2\Entrega2\Entrega2\bin\Debug\net8.0\Entrega2.deps.json
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Entrega2\Entrega2\Entrega2\bin\Debug\net8.0\Entrega2.runtimeconfig.json
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Entrega2\Entrega2\Entrega2\bin\Debug\net8.0\Entrega2.dll
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Entrega2\Entrega2\Entrega2\bin\Debug\net8.0\Entrega2.pdb
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Entrega2\Entrega2\Entrega2\obj\Debug\net8.0\Entrega2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Entrega2\Entrega2\Entrega2\obj\Debug\net8.0\Entrega2.AssemblyInfoInputs.cache
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Entrega2\Entrega2\Entrega2\obj\Debug\net8.0\Entrega2.AssemblyInfo.cs
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Entrega2\Entrega2\Entrega2\obj\Debug\net8.0\Entrega2.csproj.CoreCompileInputs.cache
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Entrega2\Entrega2\Entrega2\obj\Debug\net8.0\Entrega2.sourcelink.json
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Entrega2\Entrega2\Entrega2\obj\Debug\net8.0\Entrega2.dll
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Entrega2\Entrega2\Entrega2\obj\Debug\net8.0\refint\Entrega2.dll
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Entrega2\Entrega2\Entrega2\obj\Debug\net8.0\Entrega2.pdb
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Entrega2\Entrega2\Entrega2\obj\Debug\net8.0\Entrega2.genruntimeconfig.cache
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Entrega2\Entrega2\Entrega2\obj\Debug\net8.0\ref\Entrega2.dll
