@@ -55,6 +55,8 @@ Console.WriteLine("La cantidad de nombres que comienzan con A son: " + Contador)
 
 */
 
+/*
+
 //Ingresar 10 números y mostrar cuántos son positivos, negativos y ceros.
 
 int Contador = 0;
@@ -88,3 +90,114 @@ for (int i = 0; i < num.Length; i++)
 
 
 Console.WriteLine($"La cantidad de numero negativos ingresados es de {ContadorNeg} la cantidad de positivos es de {ContadorPos} y de ceros es de {Contador}");
+
+
+*/
+
+/*
+
+//Crear un array con los días de la semana y mostrar solo los días laborales
+
+string[] dias = new string[] { "lunes", "martes", "miercoles", "jueves", "viernes", "sabado", "domingo" };
+
+for (int i = 0; i < 5; i++)
+{
+    Console.WriteLine(dias[i]);
+}
+
+
+*/
+
+/*
+
+// Solicitar al usuario que ingrese 5 números enteros y guardarlos en una lista. Luego calcular y mostrar la suma total de los elementos
+
+int[] lista = new int[5];
+int num;
+int suma = 0;
+for (int i = 0; i < 5; i++)
+{
+    Console.Write("ingrese un numero entero: ");
+    if (int.TryParse(Console.ReadLine(), out num))
+    {
+        lista[i] = num;
+    }    
+    
+    suma += num;
+
+}
+Console.WriteLine(suma);
+
+*/
+
+/*
+
+//  Pedir al usuario que ingrese 7 números y guardarlos en una lista. Luego pedir otro número y verificar si está en la lista. Mostrar un mensaje informando si se encontró o no.
+int num2;
+int num;
+int[] lista = new int[7];
+
+for (int i = 0; i < 7; i++)
+{
+    Console.Write("Ingrese un numero: ");
+    if (int.TryParse(Console.ReadLine(), out num))
+    {
+
+        lista[i] = num;
+    }
+    Console.WriteLine(num);
+    
+
+}
+Console.WriteLine("ingrese otro numero");
+if (int.TryParse(Console.ReadLine(), out num2))
+{
+
+    if (lista.Contains(num2))
+    {
+        Console.WriteLine($"se encontro el numero {num2} en la lista");
+    }
+    else
+    {
+        Console.WriteLine($"el numero {num2} no aparece en la lista");
+    }
+}
+
+
+*/
+
+
+// Generar una lista con 10 números aleatorios entre 1 y 100. Luego pedir al usuario un valor límite y eliminar todos los elementos menores a ese valor.
+//  Mostrar la lista resultante.
+
+
+
+int[] lista = new int[10];
+ int num;
+ int num2;
+ Random random = new Random();
+
+for (int i = 0; i < lista.Length; i++)
+{
+    lista[i] = random.Next(101);
+    Console.WriteLine($"{lista[i]}, ");
+
+}
+Console.Write("ingrese un valor limite: ");
+if (int.TryParse(Console.ReadLine(), out num2))
+{
+
+    for (int i = 0; i < lista.Length; i++)
+    {
+        if (lista[i] < num2)
+        {
+            lista[i] -= lista[i];
+        }
+        Console.Write($" {lista[i]}, ");
+    }
+
+}
+
+
+   
+ 
