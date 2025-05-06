@@ -108,13 +108,17 @@ for (int i = 0; i < 5; i++)
 
 */
 
-/*
+
 
 // Solicitar al usuario que ingrese 5 números enteros y guardarlos en una lista. Luego calcular y mostrar la suma total de los elementos
 
-int[] lista = new int[5];
+/*
+
 int num;
 int suma = 0;
+
+List<int> lista = [5];
+
 for (int i = 0; i < 5; i++)
 {
     Console.Write("ingrese un numero entero: ");
@@ -135,7 +139,7 @@ Console.WriteLine(suma);
 //  Pedir al usuario que ingrese 7 números y guardarlos en una lista. Luego pedir otro número y verificar si está en la lista. Mostrar un mensaje informando si se encontró o no.
 int num2;
 int num;
-int[] lista = new int[7];
+List<int> lista = [7];
 
 for (int i = 0; i < 7; i++)
 {
@@ -167,17 +171,19 @@ if (int.TryParse(Console.ReadLine(), out num2))
 */
 
 
+/*
+
 // Generar una lista con 10 números aleatorios entre 1 y 100. Luego pedir al usuario un valor límite y eliminar todos los elementos menores a ese valor.
 //  Mostrar la lista resultante.
 
 
 
-int[] lista = new int[10];
+List<int> lista = [10];
  int num;
  int num2;
  Random random = new Random();
 
-for (int i = 0; i < lista.Length; i++)
+for (int i = 0; i < 10; i++)
 {
     lista[i] = random.Next(101);
     Console.WriteLine($"{lista[i]}, ");
@@ -187,17 +193,15 @@ Console.Write("ingrese un valor limite: ");
 if (int.TryParse(Console.ReadLine(), out num2))
 {
 
-    for (int i = 0; i < lista.Length; i++)
+    for (int i = 0; i < 10; i++)
     {
         if (lista[i] < num2)
         {
-            lista[i] -= lista[i];
-        }
+           lista.RemoveAt(i);
+        } 
         Console.Write($" {lista[i]}, ");
     }
 
 }
 
-
-   
- 
+*/
