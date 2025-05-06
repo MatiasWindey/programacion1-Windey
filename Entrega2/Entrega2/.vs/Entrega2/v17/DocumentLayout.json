@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{50425ECC-6F8C-473B-9C8E-DD00157D96AB}|Entrega2\\Entrega2.csproj|c:\\users\\matt-\\desktop\\mattsaurus\\ices\\programacion 1\\programacion1-windey\\entrega2\\entrega2\\entrega2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50425ECC-6F8C-473B-9C8E-DD00157D96AB}|Entrega2\\Entrega2.csproj|solutionrelative:entrega2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Matt-\\AppData\\Local\\SourceServer\\721f9d2512907cdf349b6dd09adb8c100aa1dc79e36f35576faf71f6bf68d5a9\\Entrega2\\Entrega2\\Entrega2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +17,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matt-\\AppData\\Local\\SourceServer\\721f9d2512907cdf349b6dd09adb8c100aa1dc79e36f35576faf71f6bf68d5a9\\Entrega2\\Entrega2\\Entrega2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\721f9d2512907cdf349b6dd09adb8c100aa1dc79e36f35576faf71f6bf68d5a9\\Entrega2\\Entrega2\\Entrega2\\Program.cs",
+              "ToolTip": "C:\\Users\\Matt-\\AppData\\Local\\SourceServer\\721f9d2512907cdf349b6dd09adb8c100aa1dc79e36f35576faf71f6bf68d5a9\\Entrega2\\Entrega2\\Entrega2\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\721f9d2512907cdf349b6dd09adb8c100aa1dc79e36f35576faf71f6bf68d5a9\\Entrega2\\Entrega2\\Entrega2\\Program.cs",
+              "ViewState": "AQIAALkAAAAAAAAAAAASwMMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T19:53:34.254Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +39,7 @@
               "RelativeDocumentMoniker": "Entrega2\\Program.cs",
               "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Entrega2\\Entrega2\\Entrega2\\Program.cs",
               "RelativeToolTip": "Entrega2\\Program.cs",
-              "ViewState": "AQIAAKUAAAAAAAAAAAAAAHIAAAACAAAA",
+              "ViewState": "AQIAAM0AAAAAAAAAAADgv+EAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-02T14:04:09.726Z",
               "EditorCaption": ""
