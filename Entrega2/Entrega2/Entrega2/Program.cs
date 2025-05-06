@@ -221,15 +221,19 @@ Console.Write("ingrese un valor limite: ");
 if (int.TryParse(Console.ReadLine(), out num))
 {
 
-    for (int i = 0; i < 10; i++)
+    for (int i = 0; i < lista.Count ; i++)
     {
         if (lista[i] < num)
         {
            lista.RemoveAt(i);
             i--;
         } 
-        Console.Write($" {lista[i]}, ");
+        
     }
-
+    foreach (int item in lista)
+    {
+        Console.Write($" {item}, ");
+    }
+   
 }
 
