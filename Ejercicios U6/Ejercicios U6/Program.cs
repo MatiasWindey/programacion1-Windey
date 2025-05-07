@@ -26,6 +26,10 @@ Console.WriteLine($"La calificacion promedio del servicio es de {Suma/Contador}"
 */
 
 
+
+
+/*
+
 //2- Registrar alumnos en 3 cursos (A, B, C), y luego listar cuántos hay en cada uno
 
 
@@ -49,5 +53,117 @@ do
     
 } while (!string.IsNullOrEmpty(NombreA));
 
-Console.WriteLine(ListaA.Count - 1);
+
+
+do
+{
+
+    Console.WriteLine("ingrese nombre de los alumnos del curso B (cuando no quiera ingresar mas precione enter): ");
+
+    NombreB = Console.ReadLine();
+
+    ListaB.Add(NombreB);
+
+} while (!string.IsNullOrEmpty(NombreB));
+
+
+
+do
+{
+
+    Console.WriteLine("ingrese nombre de los alumnos del curso C (cuando no quiera ingresar mas precione enter): ");
+
+    NombreC = Console.ReadLine();
+
+    ListaC.Add(NombreC);
+
+} while (!string.IsNullOrEmpty(NombreC));
+
+
+
+Console.WriteLine($"La cantidad de los alumnos ingresados para cada curso es de: Curso A = {ListaA.Count -1} Curso B = {ListaB.Count -1} y Curso C = {ListaC.Count -1}");
+
+
+*/
+
+
+
+
+
+/*
+
+
+// Verificar si un array de enteros se lee igual de izquierda a derecha que de derecha a izquierda.
+
+int num;
+
+int[] arreglo = new int[7];
+int[] arreglont = new int[7];
+
+for (int i = 0; i < 7; i++)
+{
+    Console.Write("Ingrese un valor: ");
+    if (int.TryParse(Console.ReadLine(), out num))
+    {
+
+        arreglo[i] = num;
+        arreglont[i] = num;
+
+    }
+
+}
+
+Array.Reverse(arreglont);
+
+if (arreglo.SequenceEqual(arreglont))
+{
+    
+    Console.WriteLine($"el arreglo es capicua Normal: {string.Join(", ", arreglo)}  reversa: {string.Join(", ", arreglont)}");
+}
+else
+{
+   
+    Console.WriteLine($"el arreglo no es capicua Normal: {string.Join(", ", arreglo)} Reversa: {string.Join(", ", arreglont)}" );
+}
+
+*/
+
+
+
+/*
+
+// Eliminar los valores duplicados de una lista.
+
+
+int num;
+List<int> Lista = new List<int>();
+
+
+do
+{
+    Console.Write("ingrese un valor (cuando no quiera ingrese un 0): ");
+
+    if (int.TryParse(Console.ReadLine(), out num))
+    {
+
+        Lista.Add(num);
+    }   
+
+} while (num != 0);
+
+Lista.Remove(0);
+
+List<int> SinDuplicados = Lista.Distinct().ToList();
+
+Console.WriteLine($"La lista con numeros duplicados es {(String.Join(", ", Lista))}");
+Console.WriteLine($"La lista sin numeros duplicasod es {(String.Join(", ", SinDuplicados))}");
+
+*/
+
+
+// Ordenar una lista de enteros usando el algoritmo de burbuja.
+
+
+
+
 
