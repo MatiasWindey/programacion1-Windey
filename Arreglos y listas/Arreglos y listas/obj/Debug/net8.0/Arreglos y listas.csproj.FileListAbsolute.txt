@@ -1,0 +1,15 @@
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Arreglos y listas\Arreglos y listas\bin\Debug\net8.0\Arreglos y listas.exe
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Arreglos y listas\Arreglos y listas\bin\Debug\net8.0\Arreglos y listas.deps.json
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Arreglos y listas\Arreglos y listas\bin\Debug\net8.0\Arreglos y listas.runtimeconfig.json
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Arreglos y listas\Arreglos y listas\bin\Debug\net8.0\Arreglos y listas.dll
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Arreglos y listas\Arreglos y listas\bin\Debug\net8.0\Arreglos y listas.pdb
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Arreglos y listas\Arreglos y listas\obj\Debug\net8.0\Arreglos y listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Arreglos y listas\Arreglos y listas\obj\Debug\net8.0\Arreglos y listas.AssemblyInfoInputs.cache
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Arreglos y listas\Arreglos y listas\obj\Debug\net8.0\Arreglos y listas.AssemblyInfo.cs
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Arreglos y listas\Arreglos y listas\obj\Debug\net8.0\Arreglos y listas.csproj.CoreCompileInputs.cache
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Arreglos y listas\Arreglos y listas\obj\Debug\net8.0\Arreglos y listas.sourcelink.json
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Arreglos y listas\Arreglos y listas\obj\Debug\net8.0\Arreglos y listas.dll
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Arreglos y listas\Arreglos y listas\obj\Debug\net8.0\refint\Arreglos y listas.dll
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Arreglos y listas\Arreglos y listas\obj\Debug\net8.0\Arreglos y listas.pdb
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Arreglos y listas\Arreglos y listas\obj\Debug\net8.0\Arreglos y listas.genruntimeconfig.cache
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Arreglos y listas\Arreglos y listas\obj\Debug\net8.0\ref\Arreglos y listas.dll

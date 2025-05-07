@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Arreglos y listas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CAE3ED5-17A7-4E3F-8F6B-31AF10D34B86}|Arreglos y listas\\Arreglos y listas.csproj|c:\\users\\matt-\\desktop\\matt\\programacion1 2025\\programacion1-windey\\arreglos y listas\\arreglos y listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CAE3ED5-17A7-4E3F-8F6B-31AF10D34B86}|Arreglos y listas\\Arreglos y listas.csproj|solutionrelative:arreglos y listas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Arreglos y listas\\Arreglos y listas\\Program.cs",
+              "RelativeDocumentMoniker": "Arreglos y listas\\Program.cs",
+              "ToolTip": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Arreglos y listas\\Arreglos y listas\\Program.cs",
+              "RelativeToolTip": "Arreglos y listas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T04:17:57.116Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
