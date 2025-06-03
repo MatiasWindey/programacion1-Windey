@@ -2,8 +2,13 @@
 
 // 1- Realizar una encuesta a N usuarios que califiquen un servicio (1 al 5). Al final, mostrar el porcentaje de cada calificación.
 
-int Contador = 0;
-int Suma = 0;
+int Contador1 = 0;
+int Contador2 = 0;
+int Contador3 = 0;
+int Contador4 = 0;
+int Contador5 = 0;
+
+
 int Calificacion;
 
 do
@@ -12,19 +17,23 @@ do
 
     if (int.TryParse(Console.ReadLine(), out Calificacion))
     {
+        if (Calificacion == 1)
+        {
 
-        Suma += Calificacion;
-        Contador++;
+
+
+        }
+
+
     }
 
 }while(Calificacion != 0);
 
-Contador--;
 
-Console.WriteLine($"La calificacion promedio del servicio es de {Suma/Contador}");
+Console.WriteLine($"La calificacion promedio del servicio es de");
+
 
 */
-
 
 
 
@@ -45,7 +54,7 @@ List<string> ListaC = new List<string>();
 do
 {
 
-    Console.WriteLine("ingrese nombre de los alumnos del curso A (cuando no quiera ingresar mas precione enter): ");
+    Console.WriteLine("ingrese nombre de los alumnos del curso A (cuando no quiera ingresar mas presione enter): ");
 
     NombreA = Console.ReadLine();
 
@@ -58,7 +67,7 @@ do
 do
 {
 
-    Console.WriteLine("ingrese nombre de los alumnos del curso B (cuando no quiera ingresar mas precione enter): ");
+    Console.WriteLine("ingrese nombre de los alumnos del curso B (cuando no quiera ingresar mas presione enter): ");
 
     NombreB = Console.ReadLine();
 
@@ -71,7 +80,7 @@ do
 do
 {
 
-    Console.WriteLine("ingrese nombre de los alumnos del curso C (cuando no quiera ingresar mas precione enter): ");
+    Console.WriteLine("ingrese nombre de los alumnos del curso C (cuando no quiera ingresar mas presione enter): ");
 
     NombreC = Console.ReadLine();
 
@@ -129,8 +138,8 @@ else
 */
 
 
-
 /*
+
 
 // Eliminar los valores duplicados de una lista.
 
@@ -162,6 +171,34 @@ Console.WriteLine($"La lista sin numeros duplicasod es {(String.Join(", ", SinDu
 
 
 // Ordenar una lista de enteros usando el algoritmo de burbuja.
+
+
+
+//Rotar los elementos de un array una posición a la derecha.
+
+using System.ComponentModel;
+
+int[] arreglo = new int[6];
+int [] arregloOrdenado = new int[6];
+arreglo[0] = 1;
+arreglo[1] = 2;
+arreglo[2] = 3;
+arreglo[3] = 4;
+arreglo[4] = 5; 
+arreglo[5] = 6;
+
+arregloOrdenado [0] = arreglo[5];
+
+List<int> ListaArreglo = new List<int>(arreglo)   
+
+
+
+
+Console.WriteLine(string.Join( $"  ",  ));
+
+
+
+
 
 
 
