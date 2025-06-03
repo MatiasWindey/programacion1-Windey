@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Metodos practica\\Metodos practica\\Metodos practica.csproj",
+      "projectName": "Metodos practica",
+      "projectPath": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Metodos practica\\Metodos practica\\Metodos practica.csproj",
       "packagesPath": "C:\\Users\\Matt-\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Metodos practica\\Metodos practica\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
