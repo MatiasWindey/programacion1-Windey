@@ -1,0 +1,15 @@
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Metodos practica\Metodos practica\bin\Debug\net8.0\Metodos practica.exe
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Metodos practica\Metodos practica\bin\Debug\net8.0\Metodos practica.deps.json
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Metodos practica\Metodos practica\bin\Debug\net8.0\Metodos practica.runtimeconfig.json
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Metodos practica\Metodos practica\bin\Debug\net8.0\Metodos practica.dll
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Metodos practica\Metodos practica\bin\Debug\net8.0\Metodos practica.pdb
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Metodos practica\Metodos practica\obj\Debug\net8.0\Metodos practica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Metodos practica\Metodos practica\obj\Debug\net8.0\Metodos practica.AssemblyInfoInputs.cache
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Metodos practica\Metodos practica\obj\Debug\net8.0\Metodos practica.AssemblyInfo.cs
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Metodos practica\Metodos practica\obj\Debug\net8.0\Metodos practica.csproj.CoreCompileInputs.cache
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Metodos practica\Metodos practica\obj\Debug\net8.0\Metodos practica.sourcelink.json
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Metodos practica\Metodos practica\obj\Debug\net8.0\Metodos practica.dll
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Metodos practica\Metodos practica\obj\Debug\net8.0\refint\Metodos practica.dll
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Metodos practica\Metodos practica\obj\Debug\net8.0\Metodos practica.pdb
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Metodos practica\Metodos practica\obj\Debug\net8.0\Metodos practica.genruntimeconfig.cache
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Metodos practica\Metodos practica\obj\Debug\net8.0\ref\Metodos practica.dll

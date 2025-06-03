@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Metodos practica\\",
+  "WorkspaceRootPath": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Metodos practica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9DBB792-3CEC-4C6B-A2DA-6666E9E5C5C1}|Metodos practica\\Metodos practica.csproj|c:\\users\\matt-\\desktop\\matt\\programacion1 2025\\programacion1-windey\\metodos practica\\metodos practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9DBB792-3CEC-4C6B-A2DA-6666E9E5C5C1}|Metodos practica\\Metodos practica.csproj|c:\\users\\matt-\\desktop\\mattsaurus\\ices\\programacion 1\\programacion1-windey\\metodos practica\\metodos practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9DBB792-3CEC-4C6B-A2DA-6666E9E5C5C1}|Metodos practica\\Metodos practica.csproj|solutionrelative:metodos practica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,13 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Metodos practica\\Metodos practica\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Metodos practica\\Metodos practica\\Program.cs",
               "RelativeDocumentMoniker": "Metodos practica\\Program.cs",
-              "ToolTip": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Metodos practica\\Metodos practica\\Program.cs",
+              "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Metodos practica\\Metodos practica\\Program.cs",
               "RelativeToolTip": "Metodos practica\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAgwHMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T20:14:01.596Z"
+              "WhenOpened": "2025-05-27T20:14:01.596Z",
+              "EditorCaption": ""
             }
           ]
         }
