@@ -113,3 +113,73 @@ int VocalesN(string PalabraDada)
 
 // Crea una función que reciba un texto con varias palabras separadas por espacios y devuelve la palabra más larga.
 
+
+/*
+string PalabraLarga (string texto)
+{
+
+    string[] palabras = texto.Split(' ');
+
+    string PalabraMasLarga = " ";
+
+   
+
+    foreach (string i in palabras)
+    {
+
+        if (i.Length >= PalabraMasLarga.Length)
+        {
+
+            PalabraMasLarga = i;
+            polipalabras.Add(i);
+
+        }
+
+
+    }
+    return PalabraMasLarga;
+   
+}
+
+string frase = "viva la libertad adfghjkl";
+
+string resultado = PalabraLarga(frase);
+
+Console.WriteLine(resultado);
+
+*/
+
+//Crea una función que reciba un número entero y devuelve la suma de sus dígitos.
+
+/*
+
+int caracteresseparasdos(int numeros)
+{
+
+    int suma = 0;
+    
+
+    foreach (char numero in numeros.ToString())
+    {
+
+        suma += int.Parse(numero.ToString());
+
+    }
+    return suma;
+}
+
+int cadena = 12345;
+
+int totalsuma = caracteresseparasdos(cadena);
+
+Console.WriteLine(totalsuma);
+
+*/
+
+
+//Crea una función que devuelva un array con la tabla de multiplicar de un número recibido hasta el 10.
+
+
+
+
+
