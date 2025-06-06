@@ -179,6 +179,80 @@ Console.WriteLine(totalsuma);
 
 //Crea una función que devuelva un array con la tabla de multiplicar de un número recibido hasta el 10.
 
+/*
+
+int[] tablas(int numero)
+{
+    List<int> tablasLista = new List<int>();
+    int multiplicacion;
+
+    for (int i = 0; i <= 10; i++)
+    {
+
+        multiplicacion = numero * i ;
+        
+        tablasLista.Add(multiplicacion);
+        
+    }
+
+    int[] TablasArray = tablasLista.ToArray();
+
+
+
+    return TablasArray;
+}
+
+int numerodado = 2;
+
+int[] tablaDeMultiplicar = tablas(numerodado);
+
+Console.WriteLine($"las tablas de multiplicar del numero {numerodado} del 1 al 10 son {(string.Join(",", tablaDeMultiplicar))}");
+
+*/
+
+// Crea una función que devuelva cuántas veces aparece una letra específica en un texto.
+
+/*
+
+char letradada = 'a';
+
+string frase = "papas con mayonesa con milanesa con coca cola";
+
+int palabracantidad = cantidad(frase,letradada);
+
+
+Console.WriteLine(palabracantidad);
+
+
+int cantidad(string Texto, char Letrabuscada)
+{
+
+
+    int contador = 0;
+
+
+    foreach (char i in Texto)
+    {
+
+        if (char.ToLower(i) == char.ToLower(Letrabuscada))
+        {
+
+            contador++;
+        }
+
+        
+    }
+    return contador;
+}
+
+*/
+
+
+//Función que muestra todos los números pares entre dos valores dados (inclusive).
+
+
+
+
 
 
 
