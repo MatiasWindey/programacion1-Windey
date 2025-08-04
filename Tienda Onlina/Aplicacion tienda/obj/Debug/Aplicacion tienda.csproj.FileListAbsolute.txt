@@ -1,0 +1,10 @@
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Tienda Onlina\Aplicacion tienda\bin\Debug\Aplicacion tienda.exe.config
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Tienda Onlina\Aplicacion tienda\bin\Debug\Aplicacion tienda.exe
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Tienda Onlina\Aplicacion tienda\bin\Debug\Aplicacion tienda.pdb
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Tienda Onlina\Aplicacion tienda\bin\Debug\Tienda Onlina.dll
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Tienda Onlina\Aplicacion tienda\bin\Debug\Tienda Onlina.pdb
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Tienda Onlina\Aplicacion tienda\obj\Debug\Aplicacion tienda.csproj.AssemblyReference.cache
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Tienda Onlina\Aplicacion tienda\obj\Debug\Aplicacion tienda.csproj.CoreCompileInputs.cache
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Tienda Onlina\Aplicacion tienda\obj\Debug\Aplicaci.76AFB565.Up2Date
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Tienda Onlina\Aplicacion tienda\obj\Debug\Aplicacion tienda.exe
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Tienda Onlina\Aplicacion tienda\obj\Debug\Aplicacion tienda.pdb

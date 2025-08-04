@@ -1,0 +1,6 @@
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\ClassLibrary\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\ClassLibrary\ClassLibrary\obj\Debug\ClassLibrary.pdb

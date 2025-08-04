@@ -1,0 +1,6 @@
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Tienda Onlina\Tienda Onlina\obj\Debug\Tienda Online.csproj.AssemblyReference.cache
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Tienda Onlina\Tienda Onlina\obj\Debug\Tienda Online.csproj.CoreCompileInputs.cache
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Tienda Onlina\Tienda Onlina\bin\Debug\Tienda Onlina.dll
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Tienda Onlina\Tienda Onlina\bin\Debug\Tienda Onlina.pdb
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Tienda Onlina\Tienda Onlina\obj\Debug\Tienda Onlina.dll
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Tienda Onlina\Tienda Onlina\obj\Debug\Tienda Onlina.pdb

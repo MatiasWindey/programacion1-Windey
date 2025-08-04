@@ -212,7 +212,7 @@ Console.WriteLine($"las tablas de multiplicar del numero {numerodado} del 1 al 1
 
 // Crea una función que devuelva cuántas veces aparece una letra específica en un texto.
 
-/*
+
 
 char letradada = 'a';
 
@@ -245,7 +245,7 @@ int cantidad(string Texto, char Letrabuscada)
     return contador;
 }
 
-*/
+
 
 
 //Función que muestra todos los números pares entre dos valores dados (inclusive).
