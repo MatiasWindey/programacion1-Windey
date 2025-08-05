@@ -25,7 +25,7 @@ namespace Aplicacion_tienda
                     Console.WriteLine("1. Ver productos disponibles\r\n2. Agregar producto al carrito\r\n3. Ver carrito\r\n4. Confirmar compra\r\n5. Volver al menú principal\r\n");
                     if (int.TryParse(Console.ReadLine(),out O_Cliente))
                     {
-
+                       
                         if(O_Cliente == 1)
                         {
 
