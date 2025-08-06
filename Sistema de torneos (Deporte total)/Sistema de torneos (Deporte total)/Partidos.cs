@@ -29,6 +29,7 @@ namespace Sistema_de_torneos__Deporte_total_
             this.Equipovisitante = Equipovisitante;
             this.Goleslocal = Goleslocal;
             this.Golesvisitante = Golesvisitante;
+            
 
         }
 

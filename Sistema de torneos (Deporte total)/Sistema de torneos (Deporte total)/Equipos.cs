@@ -19,6 +19,8 @@ namespace Sistema_de_torneos__Deporte_total_
 
         public int Goles { get; set; }
 
+        public List<Partidos> Historialp { get; set; }
+
         public int Contadorid = 0;
 
 
@@ -29,6 +31,7 @@ namespace Sistema_de_torneos__Deporte_total_
             this.Ciudad = Ciudad;
             this.Puntos = Puntos;
             this.Goles = Goles;
+            this.Historialp = new List<Partidos>();
 
         }
     }    

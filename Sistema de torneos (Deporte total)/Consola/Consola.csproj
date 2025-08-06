@@ -50,9 +50,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Sistema de torneos %28Deporte total%29\Sistema de torneos %28Deporte total%29.csproj">
+    <ProjectReference Include="..\Sistema de torneos %28Deporte total%29\Clases.csproj">
       <Project>{aaf418cf-8be9-4f90-b383-941a3d1209c7}</Project>
-      <Name>Sistema de torneos %28Deporte total%29</Name>
+      <Name>Clases</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
