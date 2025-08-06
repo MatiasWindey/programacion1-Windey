@@ -1,0 +1,6 @@
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Sistema de torneos (Deporte total)\Sistema de torneos (Deporte total)\bin\Debug\Sistema de torneos (Deporte total).dll
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Sistema de torneos (Deporte total)\Sistema de torneos (Deporte total)\bin\Debug\Sistema de torneos (Deporte total).pdb
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Sistema de torneos (Deporte total)\Sistema de torneos (Deporte total)\obj\Debug\Sistema de torneos (Deporte total).csproj.AssemblyReference.cache
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Sistema de torneos (Deporte total)\Sistema de torneos (Deporte total)\obj\Debug\Sistema de torneos (Deporte total).csproj.CoreCompileInputs.cache
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Sistema de torneos (Deporte total)\Sistema de torneos (Deporte total)\obj\Debug\Sistema de torneos (Deporte total).dll
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Sistema de torneos (Deporte total)\Sistema de torneos (Deporte total)\obj\Debug\Sistema de torneos (Deporte total).pdb
