@@ -16,6 +16,10 @@ namespace Videojuego
         public int Defensa { get; set; }
         public int Ataque { get; set; }
 
+        public int Danoinflingidototal { get; set; }
+
+        public int Danorecibidototal { get; set; }
+
 
         public Personaje(string Nombre, int Nivel)
         {
@@ -23,12 +27,28 @@ namespace Videojuego
             this.Nombre = Nombre;
             this.Nivel = Nivel;
 
-
         }
 
+        public virtual int Atacar(Personaje Enemigo)
+        {
+            int dano = Ataque - Enemigo.Defensa;
 
+            this.Danoinflingidototal += dano;
 
+            return dano;
 
+        }
+        public int Recibirdano(int dano)
+        {
+            int danorecibido = this.Vida -= dano;
 
+            this.Danorecibidototal += danorecibido;
+
+            return danorecibido;
+
+        }
     }
 }
+
+           
+

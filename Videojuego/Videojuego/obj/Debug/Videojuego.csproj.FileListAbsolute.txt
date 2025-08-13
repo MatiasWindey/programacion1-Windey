@@ -1,0 +1,6 @@
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Videojuego\Videojuego\bin\Debug\Videojuego.dll
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Videojuego\Videojuego\bin\Debug\Videojuego.pdb
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Videojuego\Videojuego\obj\Debug\Videojuego.csproj.AssemblyReference.cache
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Videojuego\Videojuego\obj\Debug\Videojuego.csproj.CoreCompileInputs.cache
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Videojuego\Videojuego\obj\Debug\Videojuego.dll
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Videojuego\Videojuego\obj\Debug\Videojuego.pdb

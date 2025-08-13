@@ -1,0 +1,10 @@
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Videojuego\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Videojuego\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Videojuego\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Videojuego\ConsoleApp1\bin\Debug\Videojuego.dll
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Videojuego\ConsoleApp1\bin\Debug\Videojuego.pdb
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Videojuego\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Videojuego\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Videojuego\ConsoleApp1\obj\Debug\ConsoleA.CB28C8CC.Up2Date
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Videojuego\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Videojuego\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

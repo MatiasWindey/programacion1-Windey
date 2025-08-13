@@ -9,21 +9,14 @@ namespace Videojuego
     public class Guerrero : Personaje 
     {
 
-        public Guerrero(string nombre, int nivel) : base(nombre, nivel)
+        public Guerrero(string Nombre, int Nivel) : base(Nombre, Nivel)
         {
 
-            Vida = 150;
+            Vida = 150 + (15 * Nivel);
             Ataque = 30;
             Defensa = 15;
 
         }
-        public int Atacar(Personaje Enemigo)
-        {
-           int dano = Ataque - Enemigo.Defensa;
 
-            
-           return dano;
-
-        }
     }
 }

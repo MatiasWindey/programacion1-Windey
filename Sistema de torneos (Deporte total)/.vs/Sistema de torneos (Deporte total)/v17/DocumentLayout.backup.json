@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de torneos (Deporte total)\\",
+  "WorkspaceRootPath": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Sistema de torneos (Deporte total)\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3B7BAB9-6B6A-4F59-A210-5D29DB97D1AC}|Consola\\Consola.csproj|c:\\users\\matt-\\desktop\\matt\\programacion1 2025\\programacion1-windey\\sistema de torneos (deporte total)\\consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3B7BAB9-6B6A-4F59-A210-5D29DB97D1AC}|Consola\\Consola.csproj|c:\\users\\matt-\\desktop\\mattsaurus\\ices\\programacion 1\\programacion1-windey\\sistema de torneos (deporte total)\\consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3B7BAB9-6B6A-4F59-A210-5D29DB97D1AC}|Consola\\Consola.csproj|solutionrelative:consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAF418CF-8BE9-4F90-B383-941A3D1209C7}|Sistema de torneos (Deporte total)\\Sistema de torneos (Deporte total).csproj|c:\\users\\matt-\\desktop\\matt\\programacion1 2025\\programacion1-windey\\sistema de torneos (deporte total)\\sistema de torneos (deporte total)\\equipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAF418CF-8BE9-4F90-B383-941A3D1209C7}|Sistema de torneos (Deporte total)\\Sistema de torneos (Deporte total).csproj|solutionrelative:sistema de torneos (deporte total)\\equipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAF418CF-8BE9-4F90-B383-941A3D1209C7}|Sistema de torneos (Deporte total)\\Clases.csproj|C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Sistema de torneos (Deporte total)\\sistema de torneos (deporte total)\\partidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF418CF-8BE9-4F90-B383-941A3D1209C7}|Sistema de torneos (Deporte total)\\Clases.csproj|solutionrelative:sistema de torneos (deporte total)\\partidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AAF418CF-8BE9-4F90-B383-941A3D1209C7}|Sistema de torneos (Deporte total)\\Sistema de torneos (Deporte total).csproj|c:\\users\\matt-\\desktop\\matt\\programacion1 2025\\programacion1-windey\\sistema de torneos (deporte total)\\sistema de torneos (deporte total)\\partidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AAF418CF-8BE9-4F90-B383-941A3D1209C7}|Sistema de torneos (Deporte total)\\Sistema de torneos (Deporte total).csproj|solutionrelative:sistema de torneos (deporte total)\\partidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AAF418CF-8BE9-4F90-B383-941A3D1209C7}|Sistema de torneos (Deporte total)\\Clases.csproj|C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Sistema de torneos (Deporte total)\\sistema de torneos (deporte total)\\equipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF418CF-8BE9-4F90-B383-941A3D1209C7}|Sistema de torneos (Deporte total)\\Clases.csproj|solutionrelative:sistema de torneos (deporte total)\\equipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF418CF-8BE9-4F90-B383-941A3D1209C7}|Sistema de torneos (Deporte total)\\Sistema de torneos (Deporte total).csproj|C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Sistema de torneos (Deporte total)\\sistema de torneos (deporte total)\\equipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAF418CF-8BE9-4F90-B383-941A3D1209C7}|Sistema de torneos (Deporte total)\\Sistema de torneos (Deporte total).csproj|solutionrelative:sistema de torneos (deporte total)\\equipos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,46 +26,56 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Equipos.cs",
+              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Sistema de torneos (Deporte total)\\Sistema de torneos (Deporte total)\\Equipos.cs",
+              "RelativeDocumentMoniker": "Sistema de torneos (Deporte total)\\Equipos.cs",
+              "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Sistema de torneos (Deporte total)\\Sistema de torneos (Deporte total)\\Equipos.cs",
+              "RelativeToolTip": "Sistema de torneos (Deporte total)\\Equipos.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T19:27:25.967Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de torneos (Deporte total)\\Consola\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Sistema de torneos (Deporte total)\\Consola\\Program.cs",
               "RelativeDocumentMoniker": "Consola\\Program.cs",
-              "ToolTip": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de torneos (Deporte total)\\Consola\\Program.cs",
+              "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Sistema de torneos (Deporte total)\\Consola\\Program.cs",
               "RelativeToolTip": "Consola\\Program.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwC0AAAAiAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-05T23:33:06.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Partidos.cs",
-              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de torneos (Deporte total)\\Sistema de torneos (Deporte total)\\Partidos.cs",
+              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Sistema de torneos (Deporte total)\\Sistema de torneos (Deporte total)\\Partidos.cs",
               "RelativeDocumentMoniker": "Sistema de torneos (Deporte total)\\Partidos.cs",
-              "ToolTip": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de torneos (Deporte total)\\Sistema de torneos (Deporte total)\\Partidos.cs",
+              "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Sistema de torneos (Deporte total)\\Sistema de torneos (Deporte total)\\Partidos.cs",
               "RelativeToolTip": "Sistema de torneos (Deporte total)\\Partidos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAxAAAAAAAAAA==",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T23:22:58.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T23:22:58.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Equipos.cs",
-              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de torneos (Deporte total)\\Sistema de torneos (Deporte total)\\Equipos.cs",
+              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Sistema de torneos (Deporte total)\\Sistema de torneos (Deporte total)\\Equipos.cs",
               "RelativeDocumentMoniker": "Sistema de torneos (Deporte total)\\Equipos.cs",
-              "ToolTip": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de torneos (Deporte total)\\Sistema de torneos (Deporte total)\\Equipos.cs",
+              "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Sistema de torneos (Deporte total)\\Sistema de torneos (Deporte total)\\Equipos.cs",
               "RelativeToolTip": "Sistema de torneos (Deporte total)\\Equipos.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCEAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T23:12:12.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-05T23:12:12.058Z"
             }
           ]
         }

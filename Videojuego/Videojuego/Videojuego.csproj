@@ -48,11 +48,5 @@
     <Compile Include="Personaje.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\ConsoleApp1\ConsoleApp1.csproj">
-      <Project>{6a11b8ab-a075-4168-b193-3ce0bf8e882a}</Project>
-      <Name>ConsoleApp1</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

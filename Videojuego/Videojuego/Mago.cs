@@ -6,16 +6,20 @@ using System.Threading.Tasks;
 
 namespace Videojuego
 {
-    internal class Mago : Personaje
+    public class Mago : Personaje
     {
 
         public Mago(string Nombre, int Nivel) : base(Nombre, Nivel)
         {
 
+            Vida = 100 + (10 * Nivel);
+
+            Ataque = 50;
+
+            Defensa = 5;
 
 
         }
-
-
+        
     }
 }
