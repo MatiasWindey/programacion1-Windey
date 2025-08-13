@@ -8,3 +8,13 @@ C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Sistema de t
 C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Sistema de torneos (Deporte total)\Consola\bin\Debug\Sistema de torneos (Deporte total).dll
 C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Sistema de torneos (Deporte total)\Consola\bin\Debug\Sistema de torneos (Deporte total).pdb
 C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Sistema de torneos (Deporte total)\Consola\obj\Debug\Consola.csproj.Up2Date
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Sistema de torneos (Deporte total)\Consola\bin\Debug\Consola.exe.config
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Sistema de torneos (Deporte total)\Consola\bin\Debug\Consola.exe
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Sistema de torneos (Deporte total)\Consola\bin\Debug\Consola.pdb
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Sistema de torneos (Deporte total)\Consola\bin\Debug\Sistema de torneos (Deporte total).dll
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Sistema de torneos (Deporte total)\Consola\bin\Debug\Sistema de torneos (Deporte total).pdb
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Sistema de torneos (Deporte total)\Consola\obj\Debug\Consola.csproj.AssemblyReference.cache
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Sistema de torneos (Deporte total)\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Sistema de torneos (Deporte total)\Consola\obj\Debug\Consola.csproj.Up2Date
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Sistema de torneos (Deporte total)\Consola\obj\Debug\Consola.exe
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Sistema de torneos (Deporte total)\Consola\obj\Debug\Consola.pdb

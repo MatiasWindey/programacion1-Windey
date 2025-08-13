@@ -43,9 +43,53 @@ namespace Consola
                             break;
                             
                         case 2:
+                            foreach (Equipos Equipo in Listaequipos)
+                            {
+
+                                Console.WriteLine(Equipo.Nombre);
+
+                            }
                             break;
 
                         case 3:
+                            Console.WriteLine("iniciaremos un partido \r\n Por favor, ingrese los equipos que participaran iniciando por el equipo local");
+
+                        string EquipoIngresado = Console.ReadLine();
+
+
+                            foreach (Equipos equipo in Listaequipos)
+                            {
+                                string EquipoL;
+
+
+                                if (equipo.Nombre == EquipoIngresado)
+                                {
+
+                                    EquipoL = equipo.Nombre;
+
+                                }
+
+                            }
+
+                            Console.WriteLine("Ingrese el equipo visitante");
+
+                        Equipos EquipoV = Console.ReadLine();
+
+                            Console.WriteLine("ingrese los goles del local");
+
+                        int GolesL = int.Parse(Console.ReadLine());
+
+                            Console.WriteLine("Ingrese los goles del Visitante");
+
+                        int GolesV = int.Parse(Console.ReadLine());
+
+
+                        Partidos Partidonuevo = new Partidos(EquipoL, EquipoV, GolesL, GolesV);
+            
+
+               
+
+            
                             break;
 
                         case 4:
@@ -73,12 +117,7 @@ namespace Consola
 
 
             }
-            foreach(Equipos Equipo in Listaequipos)
-            {
-
-                Console.WriteLine(Equipo.Nombre);
-
-            }
+           
 
 
         }
