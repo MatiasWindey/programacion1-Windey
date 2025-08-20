@@ -22,7 +22,7 @@ namespace ConsoleApp1
             {
 
                 Console.WriteLine("1. Registar nuevo Personaje\r\n2. Ver Personajes creados\r\n3. Iniciar combates\r\n4. Ver Historial de combates\r\n5. Ver Estadisticas globales\r\n6.Salir\r\n");
-                if (int.TryParse(Console.ReadLine(), out int Opcionseleccionada)) ;
+                if (int.TryParse(Console.ReadLine(), out int Opcionseleccionada)) 
 
                 switch (Opcionseleccionada)
                 {

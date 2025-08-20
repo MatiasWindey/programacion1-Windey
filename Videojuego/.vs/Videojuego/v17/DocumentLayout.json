@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Videojuego\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A11B8AB-A075-4168-B193-3CE0BF8E882A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\matt-\\desktop\\mattsaurus\\ices\\programacion 1\\programacion1-windey\\videojuego\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A11B8AB-A075-4168-B193-3CE0BF8E882A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D51F886-A8AC-4185-8149-F748D69BFAE9}|Videojuego\\Videojuego.csproj|C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Videojuego\\videojuego\\arquero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D51F886-A8AC-4185-8149-F748D69BFAE9}|Videojuego\\Videojuego.csproj|solutionrelative:videojuego\\arquero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D51F886-A8AC-4185-8149-F748D69BFAE9}|Videojuego\\Videojuego.csproj|c:\\users\\matt-\\desktop\\mattsaurus\\ices\\programacion 1\\programacion1-windey\\videojuego\\videojuego\\combate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D51F886-A8AC-4185-8149-F748D69BFAE9}|Videojuego\\Videojuego.csproj|solutionrelative:videojuego\\combate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7D51F886-A8AC-4185-8149-F748D69BFAE9}|Videojuego\\Videojuego.csproj|C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Videojuego\\videojuego\\arquero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D51F886-A8AC-4185-8149-F748D69BFAE9}|Videojuego\\Videojuego.csproj|solutionrelative:videojuego\\arquero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A11B8AB-A075-4168-B193-3CE0BF8E882A}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\matt-\\desktop\\mattsaurus\\ices\\programacion 1\\programacion1-windey\\videojuego\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A11B8AB-A075-4168-B193-3CE0BF8E882A}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D51F886-A8AC-4185-8149-F748D69BFAE9}|Videojuego\\Videojuego.csproj|C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Videojuego\\videojuego\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D51F886-A8AC-4185-8149-F748D69BFAE9}|Videojuego\\Videojuego.csproj|solutionrelative:videojuego\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7D51F886-A8AC-4185-8149-F748D69BFAE9}|Videojuego\\Videojuego.csproj|C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Videojuego\\videojuego\\personaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7D51F886-A8AC-4185-8149-F748D69BFAE9}|Videojuego\\Videojuego.csproj|C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Videojuego\\videojuego\\guerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7D51F886-A8AC-4185-8149-F748D69BFAE9}|Videojuego\\Videojuego.csproj|solutionrelative:videojuego\\guerrero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D51F886-A8AC-4185-8149-F748D69BFAE9}|Videojuego\\Videojuego.csproj|C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Videojuego\\videojuego\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D51F886-A8AC-4185-8149-F748D69BFAE9}|Videojuego\\Videojuego.csproj|solutionrelative:videojuego\\mago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,30 +33,31 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 137,
+          "DockedWidth": 230,
           "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Mago.cs",
               "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Videojuego\\Videojuego\\Mago.cs",
               "RelativeDocumentMoniker": "Videojuego\\Mago.cs",
               "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Videojuego\\Videojuego\\Mago.cs",
               "RelativeToolTip": "Videojuego\\Mago.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T20:14:05.494Z"
+              "WhenOpened": "2025-08-12T20:14:05.494Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Videojuego\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Videojuego\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwEEAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-12T20:06:17.642Z",
               "EditorCaption": ""
@@ -64,32 +65,34 @@
           ]
         },
         {
-          "DockedWidth": 263,
-          "SelectedChildIndex": 2,
+          "DockedWidth": 170,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Guerrero.cs",
               "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Videojuego\\Videojuego\\Guerrero.cs",
               "RelativeDocumentMoniker": "Videojuego\\Guerrero.cs",
               "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Videojuego\\Videojuego\\Guerrero.cs",
               "RelativeToolTip": "Videojuego\\Guerrero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T20:13:18.518Z"
+              "WhenOpened": "2025-08-12T20:13:18.518Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Personaje.cs",
               "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Videojuego\\Videojuego\\Personaje.cs",
               "RelativeDocumentMoniker": "Videojuego\\Personaje.cs",
               "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Videojuego\\Videojuego\\Personaje.cs",
               "RelativeToolTip": "Videojuego\\Personaje.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T20:04:10.054Z"
+              "WhenOpened": "2025-08-12T20:04:10.054Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -99,22 +102,23 @@
               "RelativeDocumentMoniker": "Videojuego\\Combate.cs",
               "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Videojuego\\Videojuego\\Combate.cs",
               "RelativeToolTip": "Videojuego\\Combate.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAwwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-12T20:17:08.483Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Arquero.cs",
               "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Videojuego\\Videojuego\\Arquero.cs",
               "RelativeDocumentMoniker": "Videojuego\\Arquero.cs",
               "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Videojuego\\Videojuego\\Arquero.cs",
               "RelativeToolTip": "Videojuego\\Arquero.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-12T20:15:31.086Z"
+              "WhenOpened": "2025-08-12T20:15:31.086Z",
+              "EditorCaption": ""
             }
           ]
         }
