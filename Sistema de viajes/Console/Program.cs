@@ -48,7 +48,10 @@ namespace ConsoleApp
                                 Camion NuevoCamion = new Camion(placa,  kilometros,Capacidadcarga, Cargaadicional);
 
                                 VehiculoCreado.Add(NuevoCamion);
+
+                                
                             }
+                            
                             if (VehiculoSeleccionado == 2)
                             {
                                 Console.WriteLine("Ingrese la placa de la Furgoneta\n\r");
@@ -84,18 +87,77 @@ namespace ConsoleApp
                             Console.WriteLine("ingrese la placa del vehiculo con el cual quiera realizar el viaje");
                             string Placaviaje = Console.ReadLine();
 
-                            Viaje ViajeEnCreacion = new Viaje();
+                            
 
                             foreach (var Vehiculo in VehiculoCreado)
                             {
                                 if (Vehiculo.Placa == Placaviaje)
                                 {
-                                  
-                                    ViajeEnCreacion.Placa = Placaviaje;
+                                                
 
-                                    if (!(Vehiculo  is  Motocicleta ))
+                                    if(Vehiculo  is  Camion )
                                     {
-                                        Console.WriteLine($"ingrese la carga a transportar. debe ser menor a {Vehiculo.}");
+                                              
+                                        Console.WriteLine($"ingrese la carga a transportar. debe ser menor a {Vehiculo.Capacidadcarga}");
+                                        int Cargadada = int.Parse(Console.ReadLine());
+                                        if (Cargadada <= Vehiculo.Capacidadcarga)
+                                        {
+                                            Console.WriteLine("ingrese el destino del Camion");
+                                            string Destinoseleccionado = Console.ReadLine();
+                                            Console.WriteLine("ingrese la distancia a recorrer");
+                                            int Distanciaseleccionada = int.Parse(Console.ReadLine());
+                                            Console.WriteLine("ingrese la fecha del viaje");
+                                            string Fechaviaje = (Console.ReadLine());
+
+                                            Viaje ViajeEnCreacion = new Viaje(Placaviaje, Destinoseleccionado, Distanciaseleccionada, Fechaviaje, Cargadada);
+
+                                            Listaviajes.Add(ViajeEnCreacion);
+                                        }
+
+                                        else
+                                        {
+                                            Console.WriteLine($"el valor ingresado {Cargadada} es mayor que {Vehiculo.Capacidadcarga} vuelva a intentarlo");
+                                        }
+                                        
+                                        
+                                    }
+                                    if (Vehiculo is Furgoneta)
+                                    {
+                                        Console.WriteLine($"ingrese la carga a transportar. debe ser menor a {Vehiculo.Capacidadcarga}");
+                                        int Cargadada = int.Parse(Console.ReadLine());
+                                        if (Cargadada <= Vehiculo.Capacidadcarga)
+                                        {
+                                            Console.WriteLine("ingrese el destino de la Furgoneta");
+                                            string Destinoseleccionado = Console.ReadLine();
+                                            Console.WriteLine("ingrese la distancia a recorrer");
+                                            int Distanciaseleccionada = int.Parse(Console.ReadLine());
+                                            Console.WriteLine("ingrese la fecha del viaje");
+                                            string Fechaviaje = (Console.ReadLine());
+
+                                            Viaje ViajeEnCreacion = new Viaje(Placaviaje, Destinoseleccionado, Distanciaseleccionada, Fechaviaje, Cargadada);
+
+                                            Listaviajes.Add(ViajeEnCreacion);
+                                        }
+                                        else
+                                        {
+                                            Console.WriteLine($"el valor ingresado {Cargadada} es mayor que {Vehiculo.Capacidadcarga} vuelva a intentarlo");
+                                        }
+                                    }
+                                    if (Vehiculo is Motocicleta)
+                                    {
+                                        Console.WriteLine("ingrese el destino de la Motorola ");
+                                        string Destinoseleccionado = Console.ReadLine();
+                                        Console.WriteLine("ingrese los kilometros que debe recorrer");
+                                        int Distanciaseleccionada = int.Parse(Console.ReadLine());
+                                        Console.WriteLine("ingrese la fecha del viaje");
+                                        string Fechaviaje = (Console.ReadLine());
+                                        Console.WriteLine("dado que es una motocicleta el cargamento va a ser de 0Kg");
+                                        int Cargadada = 0;
+
+                                        Viaje ViajeEnCreacion = new Viaje(Placaviaje, Destinoseleccionado,Distanciaseleccionada,Fechaviaje, Cargadada);
+
+                                        Listaviajes.Add(ViajeEnCreacion);
+
                                     }
 
                                 }

@@ -16,7 +16,7 @@ namespace Sistema_de_viajes
             this.TipoVehiculo = "Camion";
             this.Placa = placa;
             this.Kilometros = kilometros;
-            this.Capacidadcarga =  Capacidadcarga;
+            this.Capacidadcarga =  Capacidadcarga + Cargaadicional;
             this.Cargaadicional = Cargaadicional;
            
 
