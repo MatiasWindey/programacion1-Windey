@@ -14,15 +14,23 @@ namespace Sistema_de_viajes
 
         public string Destino { get; set; }
 
-        public string TipoVehiculo { get; set; }
+        public string Placa { get; set; }
+
+        public string Cargatransportada { get; set; }
 
 
 
-        public Viaje(string TipoVehiculo, string Destino, DateTime Fecha)
+        public Viaje()
+        {
+
+        }
+        public Viaje(string Placa, string Destino, DateTime Fecha, string Cargatransportada) 
         {
            
-
-
+            this.Placa = Placa;
+            this.Destino = Destino;
+            this.fecha = Fecha;
+            this.Cargatransportada = Cargatransportada;
         }
 
 

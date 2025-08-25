@@ -4,3 +4,9 @@ C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Siste
 C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Sistema de viajes\Sistema de viajes\obj\Debug\Sistema de viajes.csproj.CoreCompileInputs.cache
 C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Sistema de viajes\Sistema de viajes\obj\Debug\Sistema de viajes.dll
 C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Sistema de viajes\Sistema de viajes\obj\Debug\Sistema de viajes.pdb
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Sistema de viajes\Sistema de viajes\bin\Debug\Sistema de viajes.dll
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Sistema de viajes\Sistema de viajes\bin\Debug\Sistema de viajes.pdb
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Sistema de viajes\Sistema de viajes\obj\Debug\Sistema de viajes.csproj.AssemblyReference.cache
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Sistema de viajes\Sistema de viajes\obj\Debug\Sistema de viajes.csproj.CoreCompileInputs.cache
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Sistema de viajes\Sistema de viajes\obj\Debug\Sistema de viajes.dll
+C:\Users\Matt-\Desktop\Matt\Programacion1 2025\programacion1-Windey\Sistema de viajes\Sistema de viajes\obj\Debug\Sistema de viajes.pdb

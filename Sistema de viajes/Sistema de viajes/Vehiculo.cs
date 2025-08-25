@@ -12,16 +12,18 @@ namespace Sistema_de_viajes
 
         public int Kilometros { get; set; }
 
-        
-    
-        public List<Viaje> Listaviajes = new List<Viaje>();
+        public string TipoVehiculo { get; set; }
+
+        public int Capacidadcarga { get; set; }
 
 
-        public Vehiculo(string placa, int kilometros)
+        public  Vehiculo(string placa, int kilometros)
         {
             
             this.Placa = placa;
             this.Kilometros = kilometros;
+            this.Capacidadcarga = 0;
+
         }
 
 
