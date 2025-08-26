@@ -3,32 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F442547A-CC8D-4BCF-BC26-93CFA6A45C39}|Sistema de viajes\\Sistema de viajes.csproj|C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\sistema de viajes\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F442547A-CC8D-4BCF-BC26-93CFA6A45C39}|Sistema de viajes\\Sistema de viajes.csproj|solutionrelative:sistema de viajes\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFC1EE91-CDF3-4A6D-B16F-B8EDD45991FE}|Console\\ConsoleApp.csproj|c:\\users\\matt-\\desktop\\matt\\programacion1 2025\\programacion1-windey\\sistema de viajes\\console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFC1EE91-CDF3-4A6D-B16F-B8EDD45991FE}|Console\\ConsoleApp.csproj|solutionrelative:console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F442547A-CC8D-4BCF-BC26-93CFA6A45C39}|Sistema de viajes\\Sistema de viajes.csproj|C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\sistema de viajes\\furgoneta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F442547A-CC8D-4BCF-BC26-93CFA6A45C39}|Sistema de viajes\\Sistema de viajes.csproj|solutionrelative:sistema de viajes\\furgoneta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F442547A-CC8D-4BCF-BC26-93CFA6A45C39}|Sistema de viajes\\Sistema de viajes.csproj|C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\sistema de viajes\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F442547A-CC8D-4BCF-BC26-93CFA6A45C39}|Sistema de viajes\\Sistema de viajes.csproj|solutionrelative:sistema de viajes\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F442547A-CC8D-4BCF-BC26-93CFA6A45C39}|Sistema de viajes\\Sistema de viajes.csproj|C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\sistema de viajes\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F442547A-CC8D-4BCF-BC26-93CFA6A45C39}|Sistema de viajes\\Sistema de viajes.csproj|solutionrelative:sistema de viajes\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F442547A-CC8D-4BCF-BC26-93CFA6A45C39}|Sistema de viajes\\Sistema de viajes.csproj|C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\sistema de viajes\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F442547A-CC8D-4BCF-BC26-93CFA6A45C39}|Sistema de viajes\\Sistema de viajes.csproj|c:\\users\\matt-\\desktop\\matt\\programacion1 2025\\programacion1-windey\\sistema de viajes\\sistema de viajes\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F442547A-CC8D-4BCF-BC26-93CFA6A45C39}|Sistema de viajes\\Sistema de viajes.csproj|solutionrelative:sistema de viajes\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AFC1EE91-CDF3-4A6D-B16F-B8EDD45991FE}|Console\\ConsoleApp.csproj|c:\\users\\matt-\\desktop\\matt\\programacion1 2025\\programacion1-windey\\sistema de viajes\\console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFC1EE91-CDF3-4A6D-B16F-B8EDD45991FE}|Console\\ConsoleApp.csproj|solutionrelative:console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F442547A-CC8D-4BCF-BC26-93CFA6A45C39}|Sistema de viajes\\Sistema de viajes.csproj|C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\sistema de viajes\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F442547A-CC8D-4BCF-BC26-93CFA6A45C39}|Sistema de viajes\\Sistema de viajes.csproj|solutionrelative:sistema de viajes\\motocicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F442547A-CC8D-4BCF-BC26-93CFA6A45C39}|Sistema de viajes\\Sistema de viajes.csproj|c:\\users\\matt-\\desktop\\matt\\programacion1 2025\\programacion1-windey\\sistema de viajes\\sistema de viajes\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F442547A-CC8D-4BCF-BC26-93CFA6A45C39}|Sistema de viajes\\Sistema de viajes.csproj|solutionrelative:sistema de viajes\\viaje.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AFC1EE91-CDF3-4A6D-B16F-B8EDD45991FE}|Console\\Console.csproj|C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AFC1EE91-CDF3-4A6D-B16F-B8EDD45991FE}|Console\\Console.csproj|solutionrelative:console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F442547A-CC8D-4BCF-BC26-93CFA6A45C39}|Sistema de viajes\\Sistema de viajes.csproj|C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\sistema de viajes\\furgoneta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F442547A-CC8D-4BCF-BC26-93CFA6A45C39}|Sistema de viajes\\Sistema de viajes.csproj|solutionrelative:sistema de viajes\\furgoneta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,33 +33,39 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 185,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 340,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\Console\\Program.cs",
               "RelativeDocumentMoniker": "Console\\Program.cs",
               "ToolTip": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\Console\\Program.cs",
               "RelativeToolTip": "Console\\Program.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAgwGEAAAB3AAAAAAAAAA==",
+              "ViewState": "AgIAALYAAAAAAAAAAAAtwMsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T22:55:20.829Z",
               "EditorCaption": ""
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 68,
+          "SelectedChildIndex": 0,
+          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Furgoneta.cs",
-              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\Sistema de viajes\\Furgoneta.cs",
-              "RelativeDocumentMoniker": "Sistema de viajes\\Furgoneta.cs",
-              "ToolTip": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\Sistema de viajes\\Furgoneta.cs",
-              "RelativeToolTip": "Sistema de viajes\\Furgoneta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABjAAAAAAAAAA==",
+              "Title": "Viaje.cs",
+              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\Sistema de viajes\\Viaje.cs",
+              "RelativeDocumentMoniker": "Sistema de viajes\\Viaje.cs",
+              "ToolTip": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\Sistema de viajes\\Viaje.cs",
+              "RelativeToolTip": "Sistema de viajes\\Viaje.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T22:25:54.148Z",
+              "WhenOpened": "2025-08-23T17:12:43.566Z",
               "EditorCaption": ""
             },
             {
@@ -74,22 +76,10 @@
               "RelativeDocumentMoniker": "Sistema de viajes\\Camion.cs",
               "ToolTip": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\Sistema de viajes\\Camion.cs",
               "RelativeToolTip": "Sistema de viajes\\Camion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T22:25:14.504Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\Console\\Program.cs",
-              "RelativeDocumentMoniker": "Console\\Program.cs",
-              "ToolTip": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\Console\\Program.cs",
-              "RelativeToolTip": "Console\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAxwA4AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T22:09:31.389Z"
             },
             {
               "$type": "Document",
@@ -99,33 +89,26 @@
               "RelativeDocumentMoniker": "Sistema de viajes\\Vehiculo.cs",
               "ToolTip": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\Sistema de viajes\\Vehiculo.cs",
               "RelativeToolTip": "Sistema de viajes\\Vehiculo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T22:08:59.611Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 223,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Viaje.cs",
-              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\Sistema de viajes\\Viaje.cs",
-              "RelativeDocumentMoniker": "Sistema de viajes\\Viaje.cs",
-              "ToolTip": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\Sistema de viajes\\Viaje.cs",
-              "RelativeToolTip": "Sistema de viajes\\Viaje.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T17:12:43.566Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
+              "Title": "Furgoneta.cs",
+              "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\Sistema de viajes\\Furgoneta.cs",
+              "RelativeDocumentMoniker": "Sistema de viajes\\Furgoneta.cs",
+              "ToolTip": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\Sistema de viajes\\Furgoneta.cs",
+              "RelativeToolTip": "Sistema de viajes\\Furgoneta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T22:25:54.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Motocicleta.cs",
               "DocumentMoniker": "C:\\Users\\Matt-\\Desktop\\Matt\\Programacion1 2025\\programacion1-Windey\\Sistema de viajes\\Sistema de viajes\\Motocicleta.cs",
               "RelativeDocumentMoniker": "Sistema de viajes\\Motocicleta.cs",

@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -93,56 +94,7 @@ namespace ConsoleApp
                             {
                                 if (Vehiculo.Placa == Placaviaje)
                                 {
-                                                
 
-                                    if(Vehiculo  is  Camion )
-                                    {
-                                              
-                                        Console.WriteLine($"ingrese la carga a transportar. debe ser menor a {Vehiculo.Capacidadcarga}");
-                                        int Cargadada = int.Parse(Console.ReadLine());
-                                        if (Cargadada <= Vehiculo.Capacidadcarga)
-                                        {
-                                            Console.WriteLine("ingrese el destino del Camion");
-                                            string Destinoseleccionado = Console.ReadLine();
-                                            Console.WriteLine("ingrese la distancia a recorrer");
-                                            int Distanciaseleccionada = int.Parse(Console.ReadLine());
-                                            Console.WriteLine("ingrese la fecha del viaje");
-                                            string Fechaviaje = (Console.ReadLine());
-
-                                            Viaje ViajeEnCreacion = new Viaje(Placaviaje, Destinoseleccionado, Distanciaseleccionada, Fechaviaje, Cargadada);
-
-                                            Listaviajes.Add(ViajeEnCreacion);
-                                        }
-
-                                        else
-                                        {
-                                            Console.WriteLine($"el valor ingresado {Cargadada} es mayor que {Vehiculo.Capacidadcarga} vuelva a intentarlo");
-                                        }
-                                        
-                                        
-                                    }
-                                    if (Vehiculo is Furgoneta)
-                                    {
-                                        Console.WriteLine($"ingrese la carga a transportar. debe ser menor a {Vehiculo.Capacidadcarga}");
-                                        int Cargadada = int.Parse(Console.ReadLine());
-                                        if (Cargadada <= Vehiculo.Capacidadcarga)
-                                        {
-                                            Console.WriteLine("ingrese el destino de la Furgoneta");
-                                            string Destinoseleccionado = Console.ReadLine();
-                                            Console.WriteLine("ingrese la distancia a recorrer");
-                                            int Distanciaseleccionada = int.Parse(Console.ReadLine());
-                                            Console.WriteLine("ingrese la fecha del viaje");
-                                            string Fechaviaje = (Console.ReadLine());
-
-                                            Viaje ViajeEnCreacion = new Viaje(Placaviaje, Destinoseleccionado, Distanciaseleccionada, Fechaviaje, Cargadada);
-
-                                            Listaviajes.Add(ViajeEnCreacion);
-                                        }
-                                        else
-                                        {
-                                            Console.WriteLine($"el valor ingresado {Cargadada} es mayor que {Vehiculo.Capacidadcarga} vuelva a intentarlo");
-                                        }
-                                    }
                                     if (Vehiculo is Motocicleta)
                                     {
                                         Console.WriteLine("ingrese el destino de la Motorola ");
@@ -154,11 +106,41 @@ namespace ConsoleApp
                                         Console.WriteLine("dado que es una motocicleta el cargamento va a ser de 0Kg");
                                         int Cargadada = 0;
 
-                                        Viaje ViajeEnCreacion = new Viaje(Placaviaje, Destinoseleccionado,Distanciaseleccionada,Fechaviaje, Cargadada);
+                                        Viaje ViajeEnCreacion = new Viaje(Placaviaje, Destinoseleccionado, Distanciaseleccionada, Fechaviaje, Cargadada);
 
                                         Listaviajes.Add(ViajeEnCreacion);
 
                                     }
+                                    else
+                                    {
+
+                                        Console.WriteLine($"ingrese la carga a transportar. debe ser menor a {Vehiculo.Capacidadcarga}");
+                                        int Cargadada = int.Parse(Console.ReadLine());
+                                        if (Cargadada <= Vehiculo.Capacidadcarga)
+                                        {
+                                            Console.WriteLine("ingrese el destino");
+                                            string Destinoseleccionado = Console.ReadLine();
+                                            Console.WriteLine("ingrese la distancia a recorrer");
+                                            int Distanciaseleccionada = int.Parse(Console.ReadLine());
+                                            Console.WriteLine("ingrese la fecha del viaje");
+                                            string Fechaviaje = (Console.ReadLine());
+
+                                            Viaje ViajeEnCreacion = new Viaje(Placaviaje, Destinoseleccionado, Distanciaseleccionada, Fechaviaje, Cargadada);
+
+                                            Vehiculo.Kilometros += Distanciaseleccionada;
+
+                                            Listaviajes.Add(ViajeEnCreacion);
+                                        }
+
+                                        else
+                                        {
+                                            Console.WriteLine($"el valor ingresado {Cargadada} es mayor que {Vehiculo.Capacidadcarga} vuelva a intentarlo");
+                                        }
+
+
+                                    }
+                                    
+                                 
 
                                 }
                             }
@@ -179,15 +161,15 @@ namespace ConsoleApp
                                 {
                                     if (vehiculo is Motocicleta motocicleta)
                                     {
-                                        Console.WriteLine($"\n\rEl tipo de vehiculo es : {vehiculo.TipoVehiculo}, La placa es : {vehiculo.Placa}, Los kilometros son : {vehiculo.Kilometros}KM\n\r");
+                                        Console.WriteLine($"\n\rEl tipo de vehiculo es : {vehiculo.TipoVehiculo}, La placa es : {vehiculo.Placa}, Los kilometros son : {vehiculo.Kilometros}KM, {Infoglobal(vehiculo)}\n\r");
                                     }
                                     if (vehiculo is Camion camion)
                                     {
-                                        Console.WriteLine($"\n\rEl tipo de vehiculo es : {vehiculo.TipoVehiculo}, La placa es : {vehiculo.Placa}, Los kilometros son : {vehiculo.Kilometros}KM, la capacidad de carga es de {camion.Capacidadcarga}, Y la capacidad de carga adicional es {camion.Cargaadicional}\n\r");
+                                        Console.WriteLine($"\n\rEl tipo de vehiculo es : {vehiculo.TipoVehiculo}, La placa es : {vehiculo.Placa}, Los kilometros son : {vehiculo.Kilometros}KM, la capacidad de carga total es de {camion.Capacidadcarga},  la capacidad de carga adicional es {camion.Cargaadicional}, {Infoglobal(vehiculo)}\n\r");
                                     }
                                     if (vehiculo is Furgoneta furgoneta)
                                     {
-                                        Console.WriteLine($"\n\rEl tipo de vehiculo es : {vehiculo.TipoVehiculo}, La placa es : {vehiculo.Placa}, Los kilometros son : {vehiculo.Kilometros}KM, Y la capacidad de carga es de {furgoneta.Capacidadcarga} \n\r");
+                                        Console.WriteLine($"\n\rEl tipo de vehiculo es : {vehiculo.TipoVehiculo}, La placa es : {vehiculo.Placa}, Los kilometros son : {vehiculo.Kilometros}KM,  la capacidad de carga es de {furgoneta.Capacidadcarga}, {Infoglobal(vehiculo)} \n\r");
                                     }
                                 }
                             }
@@ -197,10 +179,28 @@ namespace ConsoleApp
 
                         case 4:
 
+                            foreach (Vehiculo vehiculo in VehiculoCreado)
+                            {
+
+                                Console.WriteLine($"La placa es {vehiculo.Placa}, el tipo es {vehiculo.TipoVehiculo}, su kilometrajes es de {vehiculo.Kilometros}, {Infoglobal(vehiculo)}");
+
+                            }
+
                             break;
 
 
                         case 5:
+
+                            int Distanciatotalflota = 0;
+
+                            int Cargatotalflota = 0;
+
+                            foreach (var vehiculo in Listaviajes)
+                            {
+                                Distanciatotalflota += vehiculo.Distancia;
+
+                            }
+                            Console.WriteLine($"La flota transporto en total {Cargatotalflota}, recorrio {Distanciatotalflota} entre {VehiculoCreado.Count}");
 
                             break;
 
@@ -216,6 +216,37 @@ namespace ConsoleApp
                 }
 
             }
+
+
+
+            string Infoglobal(Vehiculo vehiculo)
+            {
+                int Kilometrostotales = 0;
+                int Cargatotal = 0;
+                int Cantidadviajes = 0;
+
+                foreach (var viajes in Listaviajes)
+                {
+
+                    if(vehiculo.Placa == viajes.Placa)
+                    {
+                        Kilometrostotales += viajes.Distancia;
+
+                        Cargatotal += viajes.Cargatransportada;
+
+                        Cantidadviajes++;
+                    }
+
+                }                
+                
+                return $" Recorrio {Kilometrostotales}km en {Cantidadviajes} viajes y transporto {Cargatotal}Kg totales ";
+            }
+
+
+
+
+
+
         }
     }
 }

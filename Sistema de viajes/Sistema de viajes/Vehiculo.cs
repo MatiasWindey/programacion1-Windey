@@ -17,6 +17,7 @@ namespace Sistema_de_viajes
         public int Capacidadcarga { get; set; }
 
 
+
         public  Vehiculo(string placa, int kilometros)
         {
             
@@ -25,6 +26,8 @@ namespace Sistema_de_viajes
             this.Capacidadcarga = 0;
 
         }
+
+
 
 
     }   
