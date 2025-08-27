@@ -8,5 +8,8 @@ namespace Tienda_Onlina
 {
     internal class Persona
     {
+
+
+
     }
 }

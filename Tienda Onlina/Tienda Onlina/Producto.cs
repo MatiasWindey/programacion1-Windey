@@ -6,12 +6,22 @@ using System.Threading.Tasks;
 
 namespace Tienda_Onlina
 {
-    internal class Producto
+    public class Producto
     {
 
+        public string Nombre {  get; set; }
+        
+        public int Precio { get; set; }
+
+        public int Cantidad { get; set; }
 
 
 
-
+        public  Producto(string Nombre, int Precio, int Cantidad)
+        {
+            this.Nombre = Nombre;
+            this. Precio = Precio;
+            this.Cantidad = Cantidad;
+        }
     }
 }

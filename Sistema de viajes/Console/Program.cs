@@ -36,7 +36,7 @@ namespace ConsoleApp
                             int VehiculoSeleccionado = int.Parse(Console.ReadLine());
                             
                             if (VehiculoSeleccionado == 1)
-                            {
+                            { 
                                 Console.WriteLine("Ingrese la placa del Camion\n\r");
                                 string placa = Console.ReadLine();
                                 Console.WriteLine("Ingrese los kilometros del Camion\n\r");
@@ -105,7 +105,6 @@ namespace ConsoleApp
                                         string Fechaviaje = (Console.ReadLine());
                                         Console.WriteLine("dado que es una motocicleta el cargamento va a ser de 0Kg");
                                         int Cargadada = 0;
-
                                         Viaje ViajeEnCreacion = new Viaje(Placaviaje, Destinoseleccionado, Distanciaseleccionada, Fechaviaje, Cargadada);
 
                                         Listaviajes.Add(ViajeEnCreacion);

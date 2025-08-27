@@ -6,7 +6,15 @@ using System.Threading.Tasks;
 
 namespace Tienda_Onlina
 {
-    internal class Administrador
+    public class Administrador
     {
+
+     public int AdminId { get; set; }
+
+     public string AdminName { get; set; }
+
+    
+
+    
     }
 }
