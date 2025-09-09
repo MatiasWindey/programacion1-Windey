@@ -1,0 +1,10 @@
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Parcial 2\consola\bin\Debug\consola.exe.config
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Parcial 2\consola\bin\Debug\consola.exe
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Parcial 2\consola\bin\Debug\consola.pdb
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Parcial 2\consola\bin\Debug\Parcial 2.dll
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Parcial 2\consola\bin\Debug\Parcial 2.pdb
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Parcial 2\consola\obj\Debug\consola.csproj.AssemblyReference.cache
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Parcial 2\consola\obj\Debug\consola.csproj.CoreCompileInputs.cache
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Parcial 2\consola\obj\Debug\consola.csproj.Up2Date
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Parcial 2\consola\obj\Debug\consola.exe
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Parcial 2\consola\obj\Debug\consola.pdb

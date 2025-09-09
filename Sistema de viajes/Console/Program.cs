@@ -39,6 +39,18 @@ namespace ConsoleApp
                             { 
                                 Console.WriteLine("Ingrese la placa del Camion\n\r");
                                 string placa = Console.ReadLine();
+                                foreach (Vehiculo vehiculo in VehiculoCreado)
+                                {
+
+                                    if(placa == vehiculo.Placa)
+                                    {
+
+                                        Console.WriteLine("la placa ya existe wachin");
+
+                                    }
+
+                                }
+
                                 Console.WriteLine("Ingrese los kilometros del Camion\n\r");
                                 int kilometros = int.Parse(Console.ReadLine());
                                 Console.WriteLine("Ingrese la capacidad de carga\n\r");

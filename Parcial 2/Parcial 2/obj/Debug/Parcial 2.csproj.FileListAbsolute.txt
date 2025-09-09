@@ -1,0 +1,6 @@
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Parcial 2\Parcial 2\bin\Debug\Parcial 2.dll
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Parcial 2\Parcial 2\bin\Debug\Parcial 2.pdb
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Parcial 2\Parcial 2\obj\Debug\Parcial 2.csproj.AssemblyReference.cache
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Parcial 2\Parcial 2\obj\Debug\Parcial 2.csproj.CoreCompileInputs.cache
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Parcial 2\Parcial 2\obj\Debug\Parcial 2.dll
+C:\Users\Matt-\Desktop\MattSaurus\ICES\Programacion 1\programacion1-Windey\Parcial 2\Parcial 2\obj\Debug\Parcial 2.pdb
