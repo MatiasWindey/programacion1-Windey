@@ -33,7 +33,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 242,
+          "DockedWidth": 394,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "Console\\Program.cs",
               "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Sistema de viajes\\Console\\Program.cs",
               "RelativeToolTip": "Console\\Program.cs",
-              "ViewState": "AQIAANYAAAAAAAAAAAAYwOgAAAAwAAAA",
+              "ViewState": "AQIAADoAAAAAAAAAAAAYwOgAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-22T22:55:20.829Z",
               "EditorCaption": ""
@@ -52,7 +52,7 @@
           ]
         },
         {
-          "DockedWidth": 166,
+          "DockedWidth": 14,
           "SelectedChildIndex": 4,
           "Children": [
             {
@@ -111,7 +111,7 @@
               "RelativeDocumentMoniker": "Sistema de viajes\\Viaje.cs",
               "ToolTip": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Sistema de viajes\\Sistema de viajes\\Viaje.cs",
               "RelativeToolTip": "Sistema de viajes\\Viaje.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-23T17:12:43.566Z",
               "EditorCaption": ""

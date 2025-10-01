@@ -1,0 +1,14 @@
+C:\Users\Matt-\Desktop\Entregable110\Bibliovehiculos\Bibliovehiculos\bin\Debug\net8.0\Bibliovehiculos.deps.json
+C:\Users\Matt-\Desktop\Entregable110\Bibliovehiculos\Bibliovehiculos\bin\Debug\net8.0\Bibliovehiculos.runtimeconfig.json
+C:\Users\Matt-\Desktop\Entregable110\Bibliovehiculos\Bibliovehiculos\bin\Debug\net8.0\Bibliovehiculos.dll
+C:\Users\Matt-\Desktop\Entregable110\Bibliovehiculos\Bibliovehiculos\bin\Debug\net8.0\Bibliovehiculos.pdb
+C:\Users\Matt-\Desktop\Entregable110\Bibliovehiculos\Bibliovehiculos\obj\Debug\net8.0\Bibliovehiculos.csproj.AssemblyReference.cache
+C:\Users\Matt-\Desktop\Entregable110\Bibliovehiculos\Bibliovehiculos\obj\Debug\net8.0\Bibliovehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matt-\Desktop\Entregable110\Bibliovehiculos\Bibliovehiculos\obj\Debug\net8.0\Bibliovehiculos.AssemblyInfoInputs.cache
+C:\Users\Matt-\Desktop\Entregable110\Bibliovehiculos\Bibliovehiculos\obj\Debug\net8.0\Bibliovehiculos.AssemblyInfo.cs
+C:\Users\Matt-\Desktop\Entregable110\Bibliovehiculos\Bibliovehiculos\obj\Debug\net8.0\Bibliovehiculos.csproj.CoreCompileInputs.cache
+C:\Users\Matt-\Desktop\Entregable110\Bibliovehiculos\Bibliovehiculos\obj\Debug\net8.0\Bibliovehiculos.dll
+C:\Users\Matt-\Desktop\Entregable110\Bibliovehiculos\Bibliovehiculos\obj\Debug\net8.0\refint\Bibliovehiculos.dll
+C:\Users\Matt-\Desktop\Entregable110\Bibliovehiculos\Bibliovehiculos\obj\Debug\net8.0\Bibliovehiculos.pdb
+C:\Users\Matt-\Desktop\Entregable110\Bibliovehiculos\Bibliovehiculos\obj\Debug\net8.0\Bibliovehiculos.genruntimeconfig.cache
+C:\Users\Matt-\Desktop\Entregable110\Bibliovehiculos\Bibliovehiculos\obj\Debug\net8.0\ref\Bibliovehiculos.dll
