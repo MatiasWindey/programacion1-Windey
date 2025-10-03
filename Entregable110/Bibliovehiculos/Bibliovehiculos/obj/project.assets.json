@@ -4696,11 +4696,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Matt-\\Desktop\\Entregable110\\Bibliovehiculos\\Bibliovehiculos\\Bibliovehiculos.csproj",
+      "projectUniqueName": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Entregable110\\Bibliovehiculos\\Bibliovehiculos\\Bibliovehiculos.csproj",
       "projectName": "Bibliovehiculos",
-      "projectPath": "C:\\Users\\Matt-\\Desktop\\Entregable110\\Bibliovehiculos\\Bibliovehiculos\\Bibliovehiculos.csproj",
+      "projectPath": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Entregable110\\Bibliovehiculos\\Bibliovehiculos\\Bibliovehiculos.csproj",
       "packagesPath": "C:\\Users\\Matt-\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Matt-\\Desktop\\Entregable110\\Bibliovehiculos\\Bibliovehiculos\\obj\\",
+      "outputPath": "C:\\Users\\Matt-\\Desktop\\MattSaurus\\ICES\\Programacion 1\\programacion1-Windey\\Entregable110\\Bibliovehiculos\\Bibliovehiculos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Matt-\\AppData\\Roaming\\NuGet\\NuGet.Config",
